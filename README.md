@@ -21,3 +21,5 @@ The gimbal uses an old version of the hardware and therefore runs the ancient V0
 
 
 On startup the gimbal will calibrate for ~20 seconds and then beep once it's ready to use.
+
+It supports both the standing and hanging orientation as long as you configure it. `config.cfg` is for a standing mount.
